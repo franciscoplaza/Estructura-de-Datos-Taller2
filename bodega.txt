@@ -1,0 +1,49 @@
+Categoria: Dulces
+Subcategoria: Galletas
+Producto: Kuky 50
+Producto: Frac 30
+Producto: Triton 40
+Subcategoria: Chocolates
+Producto: Costa 60
+Producto: Sahne-Nuss 25
+Producto: Trencito 35
+
+Categoria: Bebidas
+Subcategoria: Gaseosas
+Producto: Coca-Cola 100
+Producto: Fanta 80
+Producto: Sprite 70
+Subcategoria: Jugos
+Producto: Watts 90
+Producto: Andina 75
+Producto: Natur 60
+
+Categoria: Lacteos
+Subcategoria: Leches
+Producto: Colun 200
+Producto: Soprole 150
+Producto: Loncoleche 180
+Subcategoria: Yogures
+Producto: Yoplait 120
+Producto: Chamonix 110
+Producto: Nestlé 130
+
+Categoria: Snacks
+Subcategoria: Papas Fritas
+Producto: Lays 90
+Producto: Marco Polo 85
+Producto: Kryzpo 95
+Subcategoria: Frutos Secos
+Producto: Maní 100
+Producto: Almendras 70
+Producto: Nueces 80
+
+Categoria: Carnes
+Subcategoria: Vacuno
+Producto: Lomo 60
+Producto: Entraña 50
+Producto: Asado de Tira 45
+Subcategoria: Pollo
+Producto: Pechuga 100
+Producto: Alitas 90
+Producto: Trutro 85
