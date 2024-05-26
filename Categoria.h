@@ -15,4 +15,5 @@ class Categoria{
         void setNombre(string nombre);
         vector<Subcategoria> getSubcategorias();
         void setSubcategorias(vector<Subcategoria> subcategorias);
+        ~Categoria();
 };

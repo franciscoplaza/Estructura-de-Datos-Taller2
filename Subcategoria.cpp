@@ -23,3 +23,5 @@ vector<Producto> Subcategoria::getProductos() {
 void Subcategoria::setProductos(vector<Producto> productos) {
     this->productos = productos;
 }
+
+Subcategoria::~Subcategoria(){}

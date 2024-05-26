@@ -23,3 +23,5 @@ vector<Subcategoria> Categoria::getSubcategorias() {
 void Categoria::setSubcategorias(vector<Subcategoria> subcategorias) {
     this->subcategorias = subcategorias;
 }
+
+Categoria::~Categoria(){}
