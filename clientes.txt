@@ -1,0 +1,8 @@
+Juan Perez,12345678-9,Normal
+María López,98765432-1,Embarazada
+Pedro Ramirez,45678901-2,Discapacidad
+Ana González,34567890-1,Tercera Edad
+Diego Torres,23456789-0,Normal
+Laura Martínez,54321098-7,Embarazada
+Carlos Gómez,78901234-5,Discapacidad
+Sofía Rodríguez,89012345-6,Tercera Edad

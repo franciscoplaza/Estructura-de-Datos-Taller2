@@ -1,49 +1,49 @@
-Categoria: Dulces
-Subcategoria: Galletas
-Producto: Kuky 1 50 500
-Producto: Frac 2 30 300
-Producto: Triton 3 40 400
-Subcategoria: Chocolates
-Producto: Costa 4 60 600
-Producto: Sahne-Nuss 5 25 250
-Producto: Trencito 6 35 350
+Categoria:Dulces
+Subcategoria:Galletas
+Producto:Kuky 1 50 500
+Producto:Frac 2 30 300
+Producto:Triton 3 40 400
+Subcategoria:Chocolates
+Producto:Costa 4 60 600
+Producto:Sahne-Nuss 5 25 250
+Producto:Trencito 6 35 350
 
-Categoria: Bebidas
-Subcategoria: Gaseosas
-Producto: Coca-Cola 7 100 1000
-Producto: Fanta 8 80 800
-Producto: Sprite 9 70 700
-Subcategoria: Jugos
-Producto: Watts 10 90 900
-Producto: Andina 11 75 750
-Producto: Natur 12 60 600
+Categoria:Bebidas
+Subcategoria:Gaseosas
+Producto:Coca-Cola 7 100 1000
+Producto:Fanta 8 80 800
+Producto:Sprite 9 70 700
+Subcategoria:Jugos
+Producto:Watts 10 90 900
+Producto:Andina 11 75 750
+Producto:Natur 12 60 600
 
-Categoria: Lacteos
-Subcategoria: Leches
-Producto: Colun 13 200 2000
-Producto: Soprole 14 150 1500
-Producto: Loncoleche 15 180 1800
-Subcategoria: Yogures
-Producto: Yoplait 16 120 1200
-Producto: Chamonix 17 110 1100
-Producto: Nestlé 18 130 1300
+Categoria:Lacteos
+Subcategoria:Leches
+Producto:Colun 13 200 2000
+Producto:Soprole 14 150 1500
+Producto:Loncoleche 15 180 1800
+Subcategoria:Yogures
+Producto:Yoplait 16 120 1200
+Producto:Chamonix 17 110 1100
+Producto:Nestlé 18 130 1300
 
-Categoria: Snacks
-Subcategoria: Papas Fritas
-Producto: Lays 19 90 900
-Producto: Marco Polo 20 85 850
-Producto: Kryzpo 21 95 950
-Subcategoria: Frutos Secos
-Producto: Maní 22 100 1000
-Producto: Almendras 23 70 700
-Producto: Nueces 24 80 800
+Categoria:Snacks
+Subcategoria:Papas Fritas
+Producto:Lays 19 90 900
+Producto:Fruna 20 85 850
+Producto:Kryzpo 21 95 950
+Subcategoria:Frutos Secos
+Producto:Maní 22 100 1000
+Producto:Almendras 23 70 700
+Producto:Nueces 24 80 800
 
-Categoria: Carnes
-Subcategoria: Vacuno
-Producto: Lomo 25 60 600
-Producto: Entraña 26 50 500
-Producto: Asado de Tira 27 45 450
-Subcategoria: Pollo
-Producto: Pechuga 28 100 1000
-Producto: Alitas 29 90 900
-Producto: Trutro 30 85 850
+Categoria:Carnes
+Subcategoria:Vacuno
+Producto:Lomo 25 60 600
+Producto:Entraña 26 50 500
+Producto:Tira 27 45 450
+Subcategoria:Pollo
+Producto:Pechuga 28 100 1000
+Producto:Alitas 29 90 900
+Producto:Trutro 30 85 850
