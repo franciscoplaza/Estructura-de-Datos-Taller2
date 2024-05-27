@@ -5,7 +5,7 @@ using namespace std;
 
 Subcategoria::Subcategoria(string nombre){
     this->nombre = nombre;
-    this->productos = vector<Producto>();
+    this->productos = vector<Producto*>();
 }
 
 string Subcategoria::getNombre() {
@@ -16,11 +16,11 @@ void Subcategoria::setNombre(string nombre) {
     this->nombre = nombre;
 }
 
-vector<Producto> Subcategoria::getProductos() {
+vector<Producto*>& Subcategoria::getProductos() {
     return productos;
 }
 
-void Subcategoria::setProductos(vector<Producto> productos) {
+void Subcategoria::setProductos(vector<Producto*> productos) {
     this->productos = productos;
 }
 
